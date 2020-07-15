@@ -2,7 +2,7 @@
 
 ## Installation
 
-Download the latest release and put to the `/usr/local/bin` folder
+Download the latest [release](https://github.com/DmitryTsepelev/audience/releases/tag/0.1.0) and put to the `/usr/local/bin` folder
 
 ## Usage
 
